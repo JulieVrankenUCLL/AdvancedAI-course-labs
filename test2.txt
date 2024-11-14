@@ -1,8 +1,0 @@
-Create Environment: 
-python -m venv testvenv
-
-Push to git: 
-- git add -A
-- git commit -m "comment"
-- git push 
-
